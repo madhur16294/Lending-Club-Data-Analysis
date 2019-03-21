@@ -1,5 +1,11 @@
 Lending Club Data Analysis
 
+The goal of the analysis is to predict the loan status of an applicant, whether he/she will default on a loan or not.
+Apart from determination of loan status, we want to quantify the demographics of the people taking the loan, by using visualizations
+and gain insight into what type of applicants are deemed risky or safe.
+The methodology employed for prediction of loan status is Random Forest. 
+
+
 
 The lending club data is too large to upload here.
 Please follow the link to access the data, which is sourced from Kaggle.
